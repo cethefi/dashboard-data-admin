@@ -43,5 +43,15 @@
     "canEdit": false,
     "canValidate": false,
     "canPublish": false
+  },
+  
+  {
+    "name": "Olivier Aubert",
+    "email": "contact@olivieraubert.net",
+    "githubUsername": "oaubert",
+    "isAdmin": true,
+    "canEdit": true,
+    "canValidate": true,
+    "canPublish": true
   }
 ]
