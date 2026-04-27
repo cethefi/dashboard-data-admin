@@ -56,7 +56,7 @@
     "githubUsername": "aaaaa",
     "isAdmin": false,
     "canEdit": true,
-    "canValidate": false,
+    "canValidate": true,
     "canPublish": false
   }
 ]
