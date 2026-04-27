@@ -1,5 +1,6 @@
 [
   {
+    "githubId": "",
     "name": "alice leroi",
     "email": "alice.leroi@gmail.com",
     "githubUsername": "alice",
@@ -9,6 +10,7 @@
     "canPublish": false
   },
   {
+    "githubId": "",
     "name": "valerie martin",
     "email": "valeriemartin@gmail.com",
     "githubUsername": "val",
@@ -18,6 +20,7 @@
     "canPublish": false
   },
   {
+    "githubId": "186505800",
     "name": "Hajare Oulbaz",
     "email": "hajare.oulbaz@etu.univ-nantes.fr",
     "githubUsername": "hajareou",
@@ -27,6 +30,7 @@
     "canPublish": false
   },
   {
+    "githubId": "",
     "name": "Jing Xuan",
     "email": "jingxuan_c@qq.com",
     "githubUsername": "233maka",
@@ -36,6 +40,7 @@
     "canPublish": false
   },
   {
+    "githubId": "",
     "name": "Tetiana Polonina",
     "email": "tapolonina3@gmail.com",
     "githubUsername": "tapolonin",
@@ -44,14 +49,14 @@
     "canValidate": false,
     "canPublish": false
   },
-  
   {
+    "githubId": "",
     "name": "Olivier Aubert",
     "email": "contact@olivieraubert.net",
     "githubUsername": "oaubert",
     "isAdmin": true,
-    "canEdit": true,
-    "canValidate": true,
-    "canPublish": true
+    "canEdit": false,
+    "canValidate": false,
+    "canPublish": false
   }
 ]
