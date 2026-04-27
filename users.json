@@ -2,7 +2,6 @@
   {
     "githubId": "",
     "name": "valerie martin",
-    "email": "valeriemartin@gmail.com",
     "githubUsername": "val",
     "isAdmin": false,
     "canEdit": true,
@@ -12,7 +11,6 @@
   {
     "githubId": "186505800",
     "name": "Hajare Oulbaz",
-    "email": "hajare.oulbaz@etu.univ-nantes.fr",
     "githubUsername": "hajareou",
     "isAdmin": true,
     "canEdit": false,
@@ -22,7 +20,6 @@
   {
     "githubId": "134514685",
     "name": "Jing Xuan",
-    "email": "jingxuan_c@qq.com",
     "githubUsername": "233maka",
     "isAdmin": true,
     "canEdit": false,
@@ -32,7 +29,6 @@
   {
     "githubId": "",
     "name": "Tetiana Polonina",
-    "email": "tapolonina3@gmail.com",
     "githubUsername": "tapolonin",
     "isAdmin": true,
     "canEdit": false,
@@ -42,7 +38,6 @@
   {
     "githubId": "",
     "name": "Olivier Aubert",
-    "email": "contact@olivieraubert.net",
     "githubUsername": "oaubert",
     "isAdmin": true,
     "canEdit": false,
