@@ -48,15 +48,5 @@
     "canEdit": false,
     "canValidate": false,
     "canPublish": false
-  },
-  {
-    "githubId": "",
-    "name": "aaaaa",
-    "email": "aaaa",
-    "githubUsername": "aaaaa",
-    "isAdmin": false,
-    "canEdit": true,
-    "canValidate": true,
-    "canPublish": false
   }
 ]
