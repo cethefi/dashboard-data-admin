@@ -1,16 +1,6 @@
 [
   {
     "githubId": "",
-    "name": "alice leroi",
-    "email": "alice.leroi@gmail.com",
-    "githubUsername": "alice",
-    "isAdmin": false,
-    "canEdit": true,
-    "canValidate": true,
-    "canPublish": false
-  },
-  {
-    "githubId": "",
     "name": "valerie martin",
     "email": "valeriemartin@gmail.com",
     "githubUsername": "val",
