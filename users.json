@@ -1,9 +1,9 @@
 [
   {
-    "githubId": "",
-    "name": "valerie martin",
-    "githubUsername": "val",
-    "isAdmin": false,
+    "githubId": "170651475",
+    "name": "Johanne Dias",
+    "githubUsername": "Joelastarrr",
+    "isAdmin": true,
     "canEdit": true,
     "canValidate": true,
     "canPublish": false
