@@ -2,10 +2,10 @@
   {
     "githubId": "170651475",
     "name": "Johanne Dias",
-    "githubUsername": "Joelastarrr",
+    "githubUsername": "joelastarrr",
     "isAdmin": true,
-    "canEdit": true,
-    "canValidate": true,
+    "canEdit": false,
+    "canValidate": false,
     "canPublish": false
   },
   {
